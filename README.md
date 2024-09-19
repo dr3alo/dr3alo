@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Java project with a focus on object-oriented programming.**
 
-- 🌱 I’m currently learning **is to deepen my understanding of backend development and explore the integration of automation and artificial intelligence.**
+- 🌱 I’m currently learning **to deepen my understanding of backend development and explore the integration of automation and artificial intelligence.**
 
 - 👯 I’m looking to collaborate on **on RPA development for a manufacturing company and assist a friend with his startup.**
 
